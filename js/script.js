@@ -1,3 +1,3 @@
-function hola(name) { console.log(name); }
-function chau(name){ console.log("ui"); }
+function hola(name) { console.log("Hola " + name); }
+function bye(name){ console.log("bye..."); }
 function incompleta(){ console.log("incompleta"); }
